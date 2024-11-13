@@ -45,6 +45,8 @@ namespace RPGM.Mechanics
             }
         }
 
+
+
         void AnimateBatch(AnimationBatch batch)
         {
             //update all tokens with the next animation frame.
