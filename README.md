@@ -10,7 +10,6 @@
 - Simple adventure-style interactions  
 - Handcrafted map layout  
 - Basic logic for gameplay flow  
-- Clean user interface for menus and feedback
 
 ---
 
@@ -21,10 +20,3 @@
 - Unity 2D Tools (Tilemaps, Sprites)  
 - Unity Animator  
 - Unity UI System
-
----
-
-## Assets
-
-- All visual assets used in this project were sourced from free online asset packs provided by the Unity course or public websites.  
-- The focus of this project was learning and scripting gameplay logic rather than asset creation.
